@@ -4,7 +4,7 @@
 
 ## Integrantes
 
-* Nombre Apellido
+* Fabrizio Ezequiel Gutierrez
 * Nombre Apellido
 * Nombre Apellido
 * Nombre Apellido
