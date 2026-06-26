@@ -9,7 +9,7 @@ def Menu_principal():
             "4. Calculo de importes a pagar\n"
             "0. Cerrar el programa\n"
         )
-        eleccion = int(input("Ingrese la opcion segun el numero asignado:"))
+        eleccion = input("Ingrese la opcion segun el numero asignado:")
         if eleccion == "1":
             ingreso_egreso()
         elif eleccion == "2":
