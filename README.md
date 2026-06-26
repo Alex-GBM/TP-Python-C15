@@ -57,7 +57,7 @@ python main.py
 
 | Integrante   | Responsabilidad             |
 | ------------ | --------------------------- |
-| Integrante 1 | Menú principal y navegación |
+| Gutierrez, Fabrizio | Menú principal y navegación |
 | Integrante 2 | Validaciones                |
 | Integrante 3 | Funciones principales       |
 | Integrante 4 | Estadísticas                |
