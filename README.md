@@ -5,7 +5,7 @@
 ## Integrantes
 
 * Fabrizio Ezequiel Gutierrez
-* Nombre Apellido
+* Alex Gabriel Merlo
 * Nombre Apellido
 * Nombre Apellido
 * Nombre Apellido
