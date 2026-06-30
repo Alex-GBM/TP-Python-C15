@@ -6,7 +6,7 @@
 
 * Fabrizio Ezequiel Gutierrez
 * Alex Gabriel Merlo
-* Nombre Apellido
+* Maria Sasha Fiona Gimenez
 * Nombre Apellido
 * Nombre Apellido
 
