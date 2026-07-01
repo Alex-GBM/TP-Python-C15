@@ -1,0 +1,73 @@
+def ingreso_egreso():
+
+    while True:
+
+        print("\n===== INGRESO / EGRESO =====")
+        print("1. Registrar ingreso")
+        print("2. Registrar egreso")
+        print("0. Volver al menu")
+
+        opcion = input("Seleccione una opcion: ")
+
+        if opcion == "1":
+
+            if len(vehiculos) >= CAPACIDAD_TOTAL:
+                print("No hay espacios disponibles.")
+                continue
+
+            patente = input("Ingrese la patente: ").upper()
+
+            repetida = False
+
+            for v in vehiculos:
+                if v[0] == patente:
+                    repetida = True
+
+            if repetida:
+                print("Ese vehiculo ya esta dentro del estacionamiento.")
+                continue
+
+            hora = int(input("Hora de ingreso (0-23): "))
+
+            vehiculos.append([patente,hora,None,None,None])
+
+            print("Ingreso registrado correctamente.")
+
+        elif opcion == "2":
+
+            patente = input("Ingrese la patente: ").upper()
+
+            encontrado = False
+
+            for v in vehiculos:
+
+                if v[0] == patente:
+
+                    if v[2] != None:
+                        print("Ese vehiculo ya registro su salida.")
+                        encontrado = True
+                        break
+
+                    salida = int(input("Hora de salida (0-23): "))
+
+                    v[2] = salida
+                    v[3] = salida - v[1]
+
+                    if v[3] < 0:
+                        v[3] += 24
+
+                    v[4] = v[3] * PRECIO_POR_HORA
+
+                    print("Salida registrada.")
+
+                    encontrado = True
+                    break
+
+            if not encontrado:
+                print("Patente inexistente.")
+
+        elif opcion == "0":
+            break
+
+        else:
+            print("Opcion invalida.")
