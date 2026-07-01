@@ -7,12 +7,12 @@
 * Fabrizio Ezequiel Gutierrez
 * Alex Gabriel Merlo
 * Maria Sasha Fiona Gimenez
-* Nombre Apellido
+* Alvarez Carruega, Julián Nicolás
 * Nombre Apellido
 
 ## Comisión
 
-ISI - Comisión XX
+ISI - Comisión C
 
 ## Descripción del Proyecto
 
