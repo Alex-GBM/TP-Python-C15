@@ -8,7 +8,7 @@
 * Alex Gabriel Merlo
 * Maria Sasha Fiona Gimenez
 * Alvarez Carruega, Julián Nicolás
-* Nombre Apellido
+* Garcia Edgardo Raul
 
 ## Comisión
 
