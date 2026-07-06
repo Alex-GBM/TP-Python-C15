@@ -50,7 +50,7 @@ Principales funcionalidades:
 2. Abrir una terminal en la carpeta del proyecto.
 3. Ejecutar:
 
-python main.py
+Gestion estacionamiento
 
 4. Seguir las opciones mostradas por el menú.
 
