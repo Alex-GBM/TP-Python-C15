@@ -16,16 +16,16 @@ ISI - Comisión C
 
 ## Descripción del Proyecto
 
-Sistema de [nombre del sistema asignado].
+Sistema "TrabajoC15".
 
-El objetivo del sistema es permitir [explicar brevemente qué resuelve].
+El objetivo del sistema es gestionar un estacionamiento con todas las funciones que esto conlleva, con esto nos referimos a controlar el ingreso y egreso de vehiculos, medir el tiempo de permanencia de los mismos, tener registro de la cantidad de espacios disponibles para estacionar y calcular los importes a pagar de cada vehiculo.
 
 Principales funcionalidades:
 
-* Funcionalidad 1
-* Funcionalidad 2
-* Funcionalidad 3
-* Funcionalidad 4
+* Control de ingreso y egreso de vehiculos
+* Registro del tiempo de permanencia de los vehiculos
+* Registro de la cantidad de espacios disponibles para estacionar
+* Calculo de importes en relacion al tiempo de estacionado y al tipo de vehiculo
 
 ## Tecnologías Utilizadas
 
@@ -38,8 +38,9 @@ Principales funcionalidades:
 /proyecto
 │
 ├── main.py
+├── menu_principal.py
+├── ingreso_egreso.py
 ├── funciones.py
-├── validaciones.py
 ├── datos.py
 └── README.md
 
