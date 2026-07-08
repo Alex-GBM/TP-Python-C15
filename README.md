@@ -37,10 +37,7 @@ Principales funcionalidades:
 
 1. Descargar o clonar el repositorio.
 2. Abrir una terminal en la carpeta del proyecto.
-3. Ejecutar:
-
-Gestion estacionamiento
-
+3. Ejecutar: main.py
 4. Seguir las opciones mostradas por el menú.
 
 ## Distribución de Tareas
