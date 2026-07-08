@@ -29,20 +29,9 @@ Principales funcionalidades:
 
 ## Tecnologías Utilizadas
 
-* Python 3.x
+* Python 3.14.6
 * GitHub
 * Consola de comandos
-
-## Estructura del Proyecto
-
-/proyecto
-│
-├── main.py
-├── menu_principal.py
-├── ingreso_egreso.py
-├── funciones.py
-├── datos.py
-└── README.md
 
 ## Instrucciones de Ejecución
 
@@ -59,10 +48,10 @@ Gestion estacionamiento
 | Integrante   | Responsabilidad             |
 | ------------ | --------------------------- |
 | Gutierrez, Fabrizio | Menú principal y navegación |
-| Integrante 2 | Validaciones                |
-| Integrante 3 | Funciones principales       |
-| Integrante 4 | Estadísticas                |
-| Integrante 5 | Pruebas y documentación     |
+| Garcia Edgardo Raul | Validaciones                |
+| Alex Gabriel Merlo | Funciones principales       |
+| Maria Sasha Fiona Gimenez | Estadísticas                |
+| Alvarez Carruega, Julián Nicolás | Pruebas y documentación     |
 
 ## Uso de Inteligencia Artificial
 
