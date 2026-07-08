@@ -32,12 +32,12 @@ Principales funcionalidades:
 * Python 3.14.6
 * GitHub
 * Consola de comandos
+* VsCode 
 
 ## Instrucciones de Ejecución
 
 1. Descargar o clonar el repositorio.
-2. Abrir una terminal en la carpeta del proyecto.
-3. Ejecutar: main.py
+2. Ejecutar: ``gestion de estacionamiento.exe`.
 4. Seguir las opciones mostradas por el menú.
 
 ## Distribución de Tareas
@@ -46,7 +46,7 @@ Principales funcionalidades:
 | ------------ | --------------------------- |
 | Gutierrez, Fabrizio | Menú principal y navegación |
 | Garcia Edgardo Raul | Validaciones                |
-| Alex Gabriel Merlo | Funciones principales       |
+| Alex Gabriel Merlo | Funciones principales e interfaz grafica       |
 | Maria Sasha Fiona Gimenez | Estadísticas                |
 | Alvarez Carruega, Julián Nicolás | Pruebas y documentación     |
 
@@ -54,7 +54,8 @@ Principales funcionalidades:
 
 Herramienta utilizada:
 
-* ChatGPT
+* Claude
+* Github spec-kit
 
 Uso realizado:
 
@@ -62,12 +63,13 @@ Uso realizado:
 * Resolución de dudas sobre Python.
 * Revisión y corrección de errores.
 * Sugerencias de modularización del código.
+* GitHub SpecKit se utilizo para generar modelos con situaciones similares y asi poder aprender sobre la utilizacion de funciones y/o procedimientos.
 
 Todas las respuestas obtenidas fueron analizadas, adaptadas y verificadas por los integrantes antes de incorporarlas al proyecto.
 
 ## Posibles Mejoras Futuras
 
 * Persistencia de datos en archivos.
-* Interfaz gráfica.
-* Reportes más completos.
-* Mayor cantidad de estadísticas.
+* Interfaz gráfica.(resuelto)
+* Reportes más completos.(resuelto)
+* Mayor cantidad de estadísticas.(no es necesario)
